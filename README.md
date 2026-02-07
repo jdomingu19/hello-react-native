@@ -1,0 +1,25 @@
+# Hello, React Native!
+
+![Static Badge](https://img.shields.io/badge/react_native-0.80+-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/expo-18+-1C2024?style=for-the-badge&logo=expo&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/typescript-5+-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/javascript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/node.js-20+-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/HTML-HTML5+-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/css-css3+-663399?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)
+
+![header_hello_react](https://github.com/user-attachments/assets/632c1378-770f-4240-aefc-79b407436cb5)
+
+## Repository Content
+
+...
+
+## Repository Goals
+
+...
+
+## License
+
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
+
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
