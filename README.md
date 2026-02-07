@@ -1,7 +1,7 @@
 # Hello, React Native!
 
 ![Static Badge](https://img.shields.io/badge/react_native-0.80+-1C2024?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
-![Static Badge](https://img.shields.io/badge/expo-18+-1C2024?style=for-the-badge&logo=expo&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/expo-sdk50+-1C2024?style=for-the-badge&logo=expo&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/typescript-5+-1C2024?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/javascript-ES6+-1C2024?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/node.js-20+-1C2024?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
