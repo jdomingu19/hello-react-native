@@ -10,16 +10,18 @@
 
 ![header_hello_react_native](https://github.com/user-attachments/assets/d14d93a3-087d-4e90-b225-3b14dc8b71eb)
 
-## Repository Content
+## 🗂️ Repository Content
 
 ...
 
-## Repository Goals
+## 🎯 Repository Goals
 
 ...
 
-## License
+## ⚖️ License
 
-This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE). The license grants permission to use, modify, and distribute the code with proper attribution, while ensuring that improvements and extensions remain open and accessible to the community.
+
+##
 
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
